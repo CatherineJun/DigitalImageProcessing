@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c31f92c7-218d-4c2a-89c8-ff29816df18c" name="beida">
+        <fileTransfer rootFolder="/home/chenxiangjun" accessType="SFTP" host="172.31.200.151" port="22" sshConfigId="acdc18d9-9bab-4d12-b69c-567db99fbd81" sshConfig="chenxiangjun@172.31.200.151:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
